@@ -1,0 +1,12 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "기본.js",
+  "scripts": {
+    "r": "node 인사.js"
+  },
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
